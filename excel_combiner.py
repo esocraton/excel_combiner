@@ -61,15 +61,15 @@ while True:
             
             Please write the error to us...
             esocraton@gmail.com""")
-        time.sleep(30)
-        print("""
+            time.sleep(30)
+            print("""
 
 
 
 
-        bemsoft      @       esocraton""")
-        time.sleep(3)
-        break
+            bemsoft      @       esocraton""")
+            time.sleep(3)
+            break
     elif choise == '0':
         try:
             end()
